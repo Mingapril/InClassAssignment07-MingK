@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InClassAssignment07-MingK</string>
+
+    <string-array name="genre_array">
+        <item>Drama</item>
+        <item>Fairy Tale</item>
+        <item>Fiction</item>
+        <item>Poetry</item>
+        <item>Science Fiction</item>
+        <item>Other</item>
+    </string-array>
+</resources>
